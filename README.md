@@ -1,6 +1,5 @@
 # University List
 It's about a web application that you can **add, update, edit or delete student's personal information**. These credentials are stored in a database.
-<br/><br/>
 
 ## About
 This project is an **assignment for the lesson "Graduands' Seminar"** at [Department of Informatics at University of Western Macedonia, Kastoria, Greece](https://cs.uowm.gr). This project was made in the time period of December 2020 by Dimitrios Nasoufis & Chrysa Tsianta.<br/>
