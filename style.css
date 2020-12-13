@@ -1,0 +1,142 @@
+  body {
+    font: 400 17px Lato, sans-serif;
+    line-height: 1.8;
+    color: #303030;
+  }
+  
+  h2 {
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 18px;
+    color: #000000;
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-family: Montserrat, sans-serif;
+  }
+  
+  h4 {
+    font-size: 18px;
+    line-height: 1.375em;
+    color: #303030;
+    font-weight: 400;
+    margin-bottom: 30px;
+  }  
+  
+  .jumbotron {
+    background-color: #33cccc;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+  }
+  
+  .container-fluid {
+    padding: 50px 50px;
+  }
+  
+  .bg-grey {
+    background-color: #e6e6e6;
+  }
+  
+  .navbar {
+    margin-bottom: 0;
+    background-color: #000000;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+  }
+  
+  .navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+  }
+  
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #33cccc !important;
+  }
+  
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+  }
+  
+  footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 2px;
+    color: #000000;
+  }
+
+  input[type=text], input[type=date], input[type=email] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  #table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+  }
+
+  #table td, #table th {
+    border: 1px solid #000000;
+    padding: 10px;
+  }
+
+  table {
+      counter-reset: tableCount;     
+  }
+
+  .counter:before {              
+      content: counter(tableCount); 
+      counter-increment: tableCount; 
+  }
+
+  #customers tr:nth-child(even){background-color: #fff;}
+
+  #customers tr:hover {background-color: #fff;}
+
+  #table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #33cccc;
+    color: black;
+  }
+
+  .button {
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+  .btn {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+  }  
+
+  .btn:hover {
+    background-color: #555555;
+    color: white;
+  }
