@@ -3,7 +3,7 @@ It's about a web application that you can **add, update, edit or delete student'
 
 ## About
 This project is an **assignment for the lesson "Graduands' Seminar"** at [Department of Informatics at University of Western Macedonia, Kastoria, Greece](https://cs.uowm.gr). This project was made in the time period of December 2020 by Dimitrios Nasoufis & Chrysa Tsianta.<br/>
-Instructor and supervisor of this project is Dimitrios Tzimas, Computing Coordinator Regional Directorate of P&S Education of Western Macedonia.
+Instructor and supervisor of this project is Dimitrios Tzimas, Computing Coordinator and Regional Directorate of P&S Education of Western Macedonia.
 
 ## Softwares & Programming Languages
 - PHP
