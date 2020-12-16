@@ -3,12 +3,12 @@ It's about a web application that you can **add, update, edit or delete student'
 
 ## About
 This project is an **assignment for the lesson "Graduands' Seminar"** at [Department of Informatics at University of Western Macedonia, Kastoria, Greece](https://cs.uowm.gr). This project was made in the time period of December 2020 by Dimitrios Nasoufis & Chrysa Tsianta.<br/>
-Instructor and supervisor of this project is Dimitrios Tzimas.
+Instructor and supervisor of this project is Dimitrios Tzimas, Computing Coordinator Regional Directorate of P&S Education of Western Macedonia.
 
 ## Softwares & Programming Languages
-- Bootstrap
 - PHP
 - MySQL
+- Bootstrap
 - HTML
 - CSS
 - JavaScript
@@ -16,9 +16,10 @@ Instructor and supervisor of this project is Dimitrios Tzimas.
 
 ## Programs & Management
 - Visual Studio Code
+- MySQL Workbench
+- phpMyAdmin
 - GitHub Desktop
 - Git
-- MySQL Workbench
 - Heroku Cloud
 
 ## URLs
@@ -35,7 +36,7 @@ Or you can install it at [Heroku Cloud](https://www.heroku.com).
 
 In your database manager (GUI or CLI) make a **new database** and create a table named **university**.
 
-In **"university"** table create the bellow columns:
+In **university** table create the bellow columns:
 - **id** INT : PK, AI
 - **name** : VARCHAR(100) : NN
 - **surname** : VARCHAR(100) : NN
